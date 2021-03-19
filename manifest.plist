@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.145.8:50002/963852741/iosIPA/iosApp.ipa</string>
+					<string>http://192.168.145.8:50002/963852741/iosIPA/Maps.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.iosApp</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>8.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iosApp.ipa</string>
+				<string>Maps.ipa</string>
 			</dict>
 		</dict>
 	</array>
